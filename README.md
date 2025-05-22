@@ -1,3 +1,4 @@
 # nabil-demo
-This is my first git repository
-author- Ahad Al Nabil
+This is my first git repository.
+<br>
+Author- Ahad Al Nabil
